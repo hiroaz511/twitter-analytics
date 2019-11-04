@@ -1,0 +1,33 @@
+cron:
+- description: favorite_tweets
+  url: /task/favorite_tweets
+  schedule: every day 08:00
+  timezone: Asia/Tokyo
+- description: favorite_tweets
+  url: /task/favorite_tweets
+  schedule: every day 10:00
+  timezone: Asia/Tokyo
+- description: favorite_tweets
+  url: /task/favorite_tweets
+  schedule: every day 12:00
+  timezone: Asia/Tokyo
+- description: favorite_tweets
+  url: /task/favorite_tweets
+  schedule: every day 15:00
+  timezone: Asia/Tokyo
+- description: favorite_tweets
+  url: /task/favorite_tweets
+  schedule: every day 17:00
+  timezone: Asia/Tokyo
+- description: favorite_tweets
+  url: /task/favorite_tweets
+  schedule: every day 19:00
+  timezone: Asia/Tokyo
+- description: favorite_tweets
+  url: /task/favorite_tweets
+  schedule: every day 21:00
+  timezone: Asia/Tokyo
+- description: favorite_tweets
+  url: /task/favorite_tweets
+  schedule: every day 23:00
+  timezone: Asia/Tokyo
